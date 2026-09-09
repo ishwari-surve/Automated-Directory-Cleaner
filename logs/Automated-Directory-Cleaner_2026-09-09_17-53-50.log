@@ -1,0 +1,24 @@
+----------------------------------------------------
+This is a log file created by Automated Directory Cleaner
+This is Directory Cleaner Script
+----------------------------------------------------
+Deleted file: Data\File-1KiDM.xls
+Deleted file: Data\File-8ufaD.xls
+Deleted file: Data\File-dKDy3.xls
+Deleted file: Data\File-fecWD.xls
+Deleted file: Data\File-FoA8O.xls
+Deleted file: Data\File-IDnkW.xls
+Deleted file: Data\File-InVD7.xls
+Deleted file: Data\File-lpYaK.xls
+Deleted file: Data\File-lwrts.xls
+Deleted file: Data\File-Tv7VP.xls
+
+========== Execution Summary ==========
+Directory Scanned : Data
+Total Files       : 24
+Empty Files Found : 10
+Files Deleted     : 10
+Errors            : 0
+Execution Time    : 0.04 seconds
+Completed
+----------------------------------------------------
