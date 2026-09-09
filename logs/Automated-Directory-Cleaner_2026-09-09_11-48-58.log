@@ -1,0 +1,35 @@
+----------------------------------------------------
+This is a log file created by Automated Directory Cleaner
+This is Directory Cleaner Script
+----------------------------------------------------
+Deleted file: Data\File-1KiDM.xls
+Deleted file: Data\File-60NpV.pdf
+Deleted file: Data\File-6Ma27.pdf
+Deleted file: Data\File-8ufaD.xls
+Deleted file: Data\File-dKDy3.xls
+Deleted file: Data\File-fecWD.xls
+Deleted file: Data\File-FoA8O.xls
+Deleted file: Data\File-IDnkW.xls
+Deleted file: Data\File-iN9oV.pdf
+Deleted file: Data\File-InVD7.xls
+Deleted file: Data\File-IOMGp.pdf
+Deleted file: Data\File-IWvgW.pdf
+Deleted file: Data\File-lpYaK.xls
+Deleted file: Data\File-lwrts.xls
+Deleted file: Data\File-OnwAz.pdf
+Deleted file: Data\File-SDQ0u.pdf
+Deleted file: Data\File-SYkW6.pdf
+Deleted file: Data\File-tEf5H.pdf
+Deleted file: Data\File-Tv7VP.xls
+Deleted file: Data\File-wgKHp.pdf
+Deleted file: Data\test\empty1.txt
+
+========== Execution Summary ==========
+Directory Scanned : Data
+Total Files       : 35
+Empty Files Found : 21
+Files Deleted     : 21
+Errors            : 0
+Execution Time    : 0.04 seconds
+Completed
+----------------------------------------------------
