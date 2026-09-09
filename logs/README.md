@@ -1,4 +1,4 @@
-````text
+
 ## Logs
 
 The `logs/` directory stores timestamped log files automatically generated during each execution of the **Automated Directory Cleaner**.
@@ -57,5 +57,5 @@ Completed
 The log files provide a complete execution history, while the CMD displays only the application status and generated log file path.
 
 ```
-```
+
 
