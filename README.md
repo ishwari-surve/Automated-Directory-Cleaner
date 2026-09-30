@@ -1,4 +1,4 @@
-# Automated Directory Cleaner
+# Automated Directory Cleaner 
 
 A Python-based file management and automation tool that recursively scans a specified directory, identifies and removes empty files, and generates timestamped execution logs with cleanup statistics and error details.
 
